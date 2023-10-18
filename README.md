@@ -2,3 +2,4 @@
 pull
 pullrequest
 プルリク
+rikuriku
