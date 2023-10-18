@@ -3,3 +3,4 @@ pull
 pullrequest
 プルリク
 rikuriku
+purupuru rikuriku
